@@ -6,4 +6,4 @@ How to run:
  --> Open a terminal window where the cloned repo is located
  --> type "make" in the terminal
  --> type "./jeopardy.exe"
- --> Enjoy!
+ --> Game should be running
